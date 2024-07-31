@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ORCESTRA sattracks</title>
+    </head>
+    <body>
+        <h1>Satellite track prediction index</h1>
+        {% for sat, satdata in avail.items() %}
+        <h2>Satellite: {{ sat }}</h2>
+        {% for fcday, days in satdata.items() %}
+        <h3>Forecast issued: {{ fcday }}</h3>
+        Prediction for: {% for day in days %}<a href="{{ day }}/PERCUSION_ORBIT_FCST_{{ sat }}_ORBLTP_CAPE_VERDE_ROI_{{ fcday }}_{{ day }}.txt">{{ day }}</a> {% endfor %}
+        {% endfor %}
+        {% endfor %}
+    </body>
+</html>
