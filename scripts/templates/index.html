@@ -9,7 +9,7 @@
         <h2>Satellite: {{ sat }}</h2>
         {% for fcday, days in satdata.items() %}
         <h3>Forecast issued: {{ fcday }}</h3>
-        Prediction for: {% for day in days %}<a href="{{ day }}/PERCUSION_ORBIT_FCST_{{ sat }}_ORBLTP_CAPE_VERDE_ROI_{{ fcday }}_{{ day }}.txt">{{ day }}</a> {% endfor %}
+        Prediction for: {% for day in days %}<a href="{{ day }}/PERCUSION_ORBIT_FCST_{{ sat }}_ORBLTP_CAPE_VERDE_ROI_V{{ day }}_F{{ fcday }}.txt">{{ day }}</a> {% endfor %}
         {% endfor %}
         {% endfor %}
     </body>
