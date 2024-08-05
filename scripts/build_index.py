@@ -7,7 +7,7 @@ import jinja2
 srcdir = Path(__file__).parent
 rootdir = srcdir.parent
 templatedir = srcdir / "templates"
-file_re = re.compile("PERCUSION_ORBIT_FCST_(?P<sat>[^_]+)_ORBLTP_CAPE_VERDE_ROI_(?P<forecast_day>[0-9]{8})_(?P<day>[0-9]{8}).txt")
+file_re = re.compile("PERCUSION_ORBIT_FCST_(?P<sat>[^_]+)_ORBLTP_CAPE_VERDE_ROI_V(?P<day>[0-9]{8})_F(?P<forecast_day>[0-9]{8}).txt")
 
 def main():
     env = jinja2.Environment(
