@@ -5,11 +5,11 @@
     </head>
     <body>
         <h1>Satellite track prediction index</h1>
-        {% for sat, satdata in avail.items() %}
+        {% for sat, satdata in avail.groupby("sat") %}
         <h2>Satellite: {{ sat }}</h2>
-        {% for fcday, days in satdata.items() %}
+        {% for fcday, days in satdata.groupby("forecast_day") %}
         <h3>Forecast issued: {{ fcday }}</h3>
-        Prediction for: {% for day in days %}<a href="{{ day }}/PERCUSION_ORBIT_FCST_{{ sat }}_ORBLTP_CAPE_VERDE_ROI_V{{ day }}_F{{ fcday }}.txt">{{ day }}</a> {% endfor %}
+        Prediction for: {% for _, entry in days.iterrows() %}<a href="{{ entry['forecast_file'] }}">{{ entry['valid_day'] }}</a> {% endfor %}
         {% endfor %}
         {% endfor %}
     </body>
