@@ -5,9 +5,9 @@
     </head>
     <body>
         <h1>Satellite track prediction index</h1>
-        {% for sat, satdata in avail.groupby("sat") %}
+        {% for sat, satdata in avail.sort_values(["sat", "forecast_day", "valid_day"], ascending=[True, False, True]).groupby("sat", sort=False) %}
         <h2>Satellite: {{ sat }}</h2>
-        {% for fcday, days in satdata.groupby("forecast_day") %}
+        {% for fcday, days in satdata.groupby("forecast_day", sort=False) %}
         <h3>Forecast issued: {{ fcday }}</h3>
         Prediction for: {% for _, entry in days.iterrows() %}<a href="{{ entry['forecast_file'] }}">{{ entry['valid_day'] }}</a> {% endfor %}
         {% endfor %}
