@@ -33,6 +33,7 @@ def main():
         )
 
     avail = pd.DataFrame.from_records(get_predictions(rootdir))
+    avail = avail.loc[avail["kind"]=="LTP"]  # changeover fix: only use LTP for the moment
     avail.to_csv(rootdir / "index.csv", index=False)
 
     template = env.get_template("index.html")
