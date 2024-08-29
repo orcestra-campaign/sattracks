@@ -8,7 +8,7 @@ import datetime
 srcdir = Path(__file__).parent
 rootdir = srcdir.parent
 templatedir = srcdir / "templates"
-file_re = re.compile("PERCUSION_ORBIT_FCST_(?P<sat>[^_]+)_ORB(?P<kind>[A-Z]+)_CAPE_VERDE_ROI_V(?P<day>[0-9]{8})_F(?P<forecast_day>[0-9]{8}).txt")
+file_re = re.compile("PERCUSION_ORBIT_FCST_(?P<sat>[^_]+)_ORB(?P<kind>[A-Z]+)_(?P<roi>[A-Z_]+)_ROI_V(?P<day>[0-9]{8})_F(?P<forecast_day>[0-9]{8}).txt")
 
 def get_predictions(rootdir):
     for fn in rootdir.glob("**/*.txt"):
@@ -18,6 +18,7 @@ def get_predictions(rootdir):
                 "forecast_day": datetime.datetime.strptime(m.group("forecast_day"), "%Y%m%d").date(),
                 "valid_day": datetime.datetime.strptime(m.group("day"), "%Y%m%d").date(),
                 "kind": m.group("kind"),
+                "roi": m.group("roi"),
                 "forecast_file": fn.relative_to(rootdir),
             }
             kml_candidate = fn.with_suffix(".kml")
@@ -33,7 +34,8 @@ def main():
         )
 
     avail = pd.DataFrame.from_records(get_predictions(rootdir))
-    avail.to_csv(rootdir / "index.csv", index=False)
+    avail[avail.roi=="CAPE_VERDE"][["sat", "forecast_day", "valid_day", "kind", "forecast_file"]].to_csv(rootdir / "index.csv", index=False)  # v1: only for cape verde
+    avail.to_csv(rootdir / "index_v2.csv", index=False)  # v2: includes multiple ROIs
 
     template = env.get_template("index.html")
     with open(rootdir / "index.html", "w") as outfile:

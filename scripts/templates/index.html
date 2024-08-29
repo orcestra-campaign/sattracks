@@ -5,11 +5,14 @@
     </head>
     <body>
         <h1>Satellite track prediction index</h1>
-        {% for sat, satdata in avail.sort_values(["sat", "forecast_day", "valid_day", "kind"], ascending=[True, False, True, True]).groupby("sat", sort=False) %}
-        <h2>Satellite: {{ sat }}</h2>
+        {% for roi, roidata in avail.sort_values(["roi", "sat", "forecast_day", "valid_day", "kind"], ascending=[True, True, False, True, True]).groupby("roi", sort=False) %}
+        <h2>ROI: {{ roi }}</h2>
+        {% for sat, satdata in roidata.groupby("sat", sort=False) %}
+        <h3>Satellite: {{ sat }}</h3>
         {% for fcday, days in satdata.groupby("forecast_day", sort=False) %}
-        <h3>Forecast issued: {{ fcday }}</h3>
+        <h4>Forecast issued: {{ fcday }}</h4>
         Prediction for: {% for day, kinds in days.groupby("valid_day", sort=False) %}{{ day }}: {% for _, entry in kinds.iterrows() %}<a href="{{ entry['forecast_file'] }}">{{ entry['kind'] }}</a> {% endfor %} {% endfor %}
+        {% endfor %}
         {% endfor %}
         {% endfor %}
     </body>
