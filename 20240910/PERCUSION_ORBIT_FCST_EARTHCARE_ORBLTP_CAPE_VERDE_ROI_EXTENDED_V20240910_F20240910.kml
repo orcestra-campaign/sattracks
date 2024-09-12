@@ -1,0 +1,4327 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Folder>
+    <name>EARTHCARE_ORBLTP_CAPE_VERDE_ROI_EXTENDED_V20240910_F20240910</name>
+    <Style id="pin_style">
+      <IconStyle id="mypin">
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="style1">
+      <LineStyle>
+        <color>ff00EDFF</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f3CD214</color>
+        <outline>0</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="stylemap_id1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#style1</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#style1</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>EC__ASC_2024-09-10T03:10:06Z_2024-09-10T03:10:21Z_1620</name>
+      <Placemark id="halo_pin_0">
+        <name>03:10:06</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-17.0666,-1.0000,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_1">
+        <name>-1.0000, -17.0666</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.066571,-1.0,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:10:06</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.0666,-1.0000,0.0 -17.1269,-0.6762,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_2">
+        <name>-0.6762, -17.1269</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.126856,-0.676195,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:10:11</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.1269,-0.6762,0.0 -17.1871,-0.3524,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_3">
+        <name>-17.1871, -0.3524</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.1871,-0.3524,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:10:21</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.1871,-0.3524,0.0 -17.2474,-0.0286,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_4">
+        <name>-17.2474, -0.0286</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.2474,-0.0286,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_5">
+        <name>03:10:21</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.2474,-0.0286,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>EC__ASC_2024-09-10T03:10:26Z_2024-09-10T04:42:52Z_1621</name>
+      <Placemark id="halo_pin_0">
+        <name>03:10:26</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-17.3077,0.2952,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_1">
+        <name>0.2952, -17.3077</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.30769,0.295248,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:10:26</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.3077,0.2952,0.0 -17.3680,0.6191,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_2">
+        <name>0.6191, -17.3680</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.36797,0.619074,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:10:31</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.3680,0.6191,0.0 -17.4283,0.9429,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_3">
+        <name>0.9429, -17.4283</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.428256,0.942904,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:10:36</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.4283,0.9429,0.0 -17.4886,1.2667,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_4">
+        <name>1.2667, -17.4886</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.48855,1.266737,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:10:41</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.4886,1.2667,0.0 -17.5489,1.5906,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_5">
+        <name>1.5906, -17.5489</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.548854,1.590573,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:10:46</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.5489,1.5906,0.0 -17.6092,1.9144,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_6">
+        <name>1.9144, -17.6092</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.609171,1.914412,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:10:51</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.6092,1.9144,0.0 -17.6695,2.2383,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_7">
+        <name>2.2383, -17.6695</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.669503,2.238252,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:10:56</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.6695,2.2383,0.0 -17.7299,2.5621,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_8">
+        <name>2.5621, -17.7299</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.729853,2.562095,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:01</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.7299,2.5621,0.0 -17.7902,2.8859,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_9">
+        <name>2.8859, -17.7902</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.790223,2.885939,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:06</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.7902,2.8859,0.0 -17.8506,3.2098,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_10">
+        <name>3.2098, -17.8506</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.850617,3.209784,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:11</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.8506,3.2098,0.0 -17.9110,3.5336,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_11">
+        <name>3.5336, -17.9110</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.911035,3.53363,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:16</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.9110,3.5336,0.0 -17.9715,3.8575,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_12">
+        <name>3.8575, -17.9715</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-17.971482,3.857475,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:21</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-17.9715,3.8575,0.0 -18.0320,4.1813,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_13">
+        <name>4.1813, -18.0320</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.031959,4.18132,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:26</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.0320,4.1813,0.0 -18.0925,4.5052,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_14">
+        <name>4.5052, -18.0925</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.092469,4.505165,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:31</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.0925,4.5052,0.0 -18.1530,4.8290,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_15">
+        <name>4.8290, -18.1530</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.153014,4.829008,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:36</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.1530,4.8290,0.0 -18.2136,5.1528,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_16">
+        <name>5.1528, -18.2136</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.213597,5.15285,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:41</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.2136,5.1528,0.0 -18.2742,5.4767,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_17">
+        <name>5.4767, -18.2742</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.27422,5.47669,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:46</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.2742,5.4767,0.0 -18.3349,5.8005,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_18">
+        <name>5.8005, -18.3349</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.334886,5.800527,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:51</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.3349,5.8005,0.0 -18.3956,6.1244,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_19">
+        <name>6.1244, -18.3956</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.395599,6.124362,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:11:56</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.3956,6.1244,0.0 -18.4564,6.4482,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_20">
+        <name>6.4482, -18.4564</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.45636,6.448193,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:01</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.4564,6.4482,0.0 -18.5172,6.7720,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_21">
+        <name>6.7720, -18.5172</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.517172,6.77202,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:06</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.5172,6.7720,0.0 -18.5780,7.0958,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_22">
+        <name>7.0958, -18.5780</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.578038,7.095843,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:11</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.5780,7.0958,0.0 -18.6390,7.4197,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_23">
+        <name>7.4197, -18.6390</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.63896,7.419661,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:16</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.6390,7.4197,0.0 -18.6999,7.7435,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_24">
+        <name>7.7435, -18.6999</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.699941,7.743475,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:21</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.6999,7.7435,0.0 -18.7610,8.0673,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_25">
+        <name>8.0673, -18.7610</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.760984,8.067283,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:26</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.7610,8.0673,0.0 -18.8221,8.3911,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_26">
+        <name>8.3911, -18.8221</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.822091,8.391084,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:31</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.8221,8.3911,0.0 -18.8833,8.7149,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_27">
+        <name>8.7149, -18.8833</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.883265,8.71488,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:36</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.8833,8.7149,0.0 -18.9445,9.0387,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_28">
+        <name>9.0387, -18.9445</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-18.944507,9.038669,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:41</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-18.9445,9.0387,0.0 -19.0058,9.3625,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_29">
+        <name>9.3625, -19.0058</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.005821,9.362451,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:46</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.0058,9.3625,0.0 -19.0672,9.6862,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_30">
+        <name>9.6862, -19.0672</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.067211,9.686225,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:51</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.0672,9.6862,0.0 -19.1287,10.0100,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_31">
+        <name>10.0100, -19.1287</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.128679,10.009991,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:12:56</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.1287,10.0100,0.0 -19.1902,10.3337,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_32">
+        <name>10.3337, -19.1902</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.190227,10.333749,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:01</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.1902,10.3337,0.0 -19.2519,10.6575,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_33">
+        <name>10.6575, -19.2519</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.25186,10.657497,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:06</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.2519,10.6575,0.0 -19.3136,10.9812,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_34">
+        <name>10.9812, -19.3136</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.313579,10.981237,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:11</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.3136,10.9812,0.0 -19.3754,11.3050,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_35">
+        <name>11.3050, -19.3754</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.375388,11.304966,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:16</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.3754,11.3050,0.0 -19.4373,11.6287,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_36">
+        <name>11.6287, -19.4373</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.437288,11.628685,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:21</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.4373,11.6287,0.0 -19.4993,11.9524,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_37">
+        <name>11.9524, -19.4993</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.499285,11.952394,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:26</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.4993,11.9524,0.0 -19.5614,12.2761,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_38">
+        <name>12.2761, -19.5614</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.561379,12.276092,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:31</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.5614,12.2761,0.0 -19.6236,12.5998,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_39">
+        <name>12.5998, -19.6236</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.623575,12.599778,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:36</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.6236,12.5998,0.0 -19.6859,12.9235,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_40">
+        <name>12.9235, -19.6859</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.685871,12.923452,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:41</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.6859,12.9235,0.0 -19.7483,13.2471,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_41">
+        <name>13.2471, -19.7483</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.748274,13.247113,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:46</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.7483,13.2471,0.0 -19.8108,13.5708,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_42">
+        <name>13.5708, -19.8108</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.810788,13.570762,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:51</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.8108,13.5708,0.0 -19.8734,13.8944,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_43">
+        <name>13.8944, -19.8734</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.873415,13.894398,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:13:56</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.8734,13.8944,0.0 -19.9362,14.2180,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_44">
+        <name>14.2180, -19.9362</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.936158,14.21802,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:01</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.9362,14.2180,0.0 -19.9990,14.5416,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_45">
+        <name>14.5416, -19.9990</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-19.999021,14.541628,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:06</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-19.9990,14.5416,0.0 -20.0620,14.8652,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_46">
+        <name>14.8652, -20.0620</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.062006,14.865221,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:11</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.0620,14.8652,0.0 -20.1251,15.1888,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_47">
+        <name>15.1888, -20.1251</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.125118,15.188799,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:16</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.1251,15.1888,0.0 -20.1884,15.5124,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_48">
+        <name>15.5124, -20.1884</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.188359,15.512362,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:21</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.1884,15.5124,0.0 -20.2517,15.8359,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_49">
+        <name>15.8359, -20.2517</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.251732,15.835908,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:26</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.2517,15.8359,0.0 -20.3152,16.1594,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_50">
+        <name>16.1594, -20.3152</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.315241,16.159439,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:31</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.3152,16.1594,0.0 -20.3789,16.4830,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_51">
+        <name>16.4830, -20.3789</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.378889,16.482952,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:36</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.3789,16.4830,0.0 -20.4427,16.8064,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_52">
+        <name>16.8064, -20.4427</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.442678,16.806449,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:41</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.4427,16.8064,0.0 -20.5066,17.1299,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_53">
+        <name>17.1299, -20.5066</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.50661,17.129928,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:46</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.5066,17.1299,0.0 -20.5707,17.4534,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_54">
+        <name>17.4534, -20.5707</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.570691,17.453389,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:51</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.5707,17.4534,0.0 -20.6349,17.7768,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_55">
+        <name>17.7768, -20.6349</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.634925,17.776831,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:14:56</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.6349,17.7768,0.0 -20.6993,18.1003,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_56">
+        <name>18.1003, -20.6993</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.699316,18.100254,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:01</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.6993,18.1003,0.0 -20.7639,18.4237,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_57">
+        <name>18.4237, -20.7639</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.763867,18.423657,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:06</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.7639,18.4237,0.0 -20.8286,18.7470,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_58">
+        <name>18.7470, -20.8286</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.828582,18.747041,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:11</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.8286,18.7470,0.0 -20.8935,19.0704,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_59">
+        <name>19.0704, -20.8935</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.893464,19.070405,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:16</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.8935,19.0704,0.0 -20.9585,19.3937,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_60">
+        <name>19.3937, -20.9585</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-20.958517,19.393747,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:21</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-20.9585,19.3937,0.0 -21.0237,19.7171,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_61">
+        <name>19.7171, -21.0237</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-21.023746,19.717069,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:26</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-21.0237,19.7171,0.0 -21.0892,20.0404,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_62">
+        <name>20.0404, -21.0892</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-21.089154,20.040368,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:31</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-21.0892,20.0404,0.0 -21.1547,20.3636,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_63">
+        <name>20.3636, -21.1547</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-21.154744,20.363646,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:36</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-21.1547,20.3636,0.0 -21.2205,20.6869,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_64">
+        <name>20.6869, -21.2205</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-21.220521,20.6869,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:41</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-21.2205,20.6869,0.0 -21.2865,21.0101,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_65">
+        <name>21.0101, -21.2865</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-21.286484,21.010132,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:46</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-21.2865,21.0101,0.0 -21.3526,21.3333,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_66">
+        <name>21.3333, -21.3526</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-21.35264,21.333341,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:51</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-21.3526,21.3333,0.0 -21.4190,21.6565,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_67">
+        <name>21.6565, -21.4190</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-21.418996,21.656525,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:15:56</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-21.4190,21.6565,0.0 -21.4856,21.9797,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_68">
+        <name>21.9797, -21.4856</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-21.485555,21.979685,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>03:16:01</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-21.4856,21.9797,0.0 -40.2434,-0.8057,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_69">
+        <name>-0.8057, -40.2434</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.243446,-0.805717,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:42:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.2434,-0.8057,0.0 -40.3037,-0.4819,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_70">
+        <name>-40.3037, -0.4819</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.3037,-0.4819,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:42:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.3037,-0.4819,0.0 -40.3640,-0.1581,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_71">
+        <name>-40.3640, -0.1581</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.3640,-0.1581,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_72">
+        <name>04:42:52</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.3640,-0.1581,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>EC__ASC_2024-09-10T04:42:57Z_2024-09-10T04:48:32Z_1622</name>
+      <Placemark id="halo_pin_0">
+        <name>04:42:57</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-40.4243,0.1657,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_1">
+        <name>0.1657, -40.4243</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.424282,0.16572,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:42:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.4243,0.1657,0.0 -40.4846,0.4895,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_2">
+        <name>0.4895, -40.4846</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.484561,0.489544,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.4846,0.4895,0.0 -40.5448,0.8134,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_3">
+        <name>0.8134, -40.5448</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.544844,0.813371,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.5448,0.8134,0.0 -40.6051,1.1372,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_4">
+        <name>1.1372, -40.6051</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.605135,1.137203,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:12</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.6051,1.1372,0.0 -40.6654,1.4610,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_5">
+        <name>1.4610, -40.6654</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.665435,1.461038,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.6654,1.4610,0.0 -40.7257,1.7849,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_6">
+        <name>1.7849, -40.7257</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.725746,1.784875,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:22</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.7257,1.7849,0.0 -40.7861,2.1087,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_7">
+        <name>2.1087, -40.7861</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.786072,2.108715,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:27</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.7861,2.1087,0.0 -40.8464,2.4326,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_8">
+        <name>2.4326, -40.8464</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.846415,2.432558,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.8464,2.4326,0.0 -40.9068,2.7564,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_9">
+        <name>2.7564, -40.9068</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.906777,2.756401,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:37</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.9068,2.7564,0.0 -40.9672,3.0802,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_10">
+        <name>3.0802, -40.9672</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-40.96716,3.080246,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-40.9672,3.0802,0.0 -41.0276,3.4041,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_11">
+        <name>3.4041, -41.0276</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.027568,3.404092,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:47</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.0276,3.4041,0.0 -41.0880,3.7279,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_12">
+        <name>3.7279, -41.0880</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.088003,3.727937,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.0880,3.7279,0.0 -41.1485,4.0518,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_13">
+        <name>4.0518, -41.1485</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.148467,4.051783,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:43:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.1485,4.0518,0.0 -41.2090,4.3756,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_14">
+        <name>4.3756, -41.2090</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.208963,4.375628,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.2090,4.3756,0.0 -41.2695,4.6995,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_15">
+        <name>4.6995, -41.2695</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.269494,4.699471,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.2695,4.6995,0.0 -41.3301,5.0233,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_16">
+        <name>5.0233, -41.3301</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.330062,5.023314,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:12</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.3301,5.0233,0.0 -41.3907,5.3472,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_17">
+        <name>5.3472, -41.3907</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.390669,5.347154,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.3907,5.3472,0.0 -41.4513,5.6710,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_18">
+        <name>5.6710, -41.4513</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.451319,5.670993,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:22</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.4513,5.6710,0.0 -41.5120,5.9948,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_19">
+        <name>5.9948, -41.5120</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.512014,5.994828,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:27</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.5120,5.9948,0.0 -41.5728,6.3187,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_20">
+        <name>6.3187, -41.5728</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.572755,6.31866,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.5728,6.3187,0.0 -41.6335,6.6425,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_21">
+        <name>6.6425, -41.6335</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.633546,6.642489,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:37</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.6335,6.6425,0.0 -41.6944,6.9663,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_22">
+        <name>6.9663, -41.6944</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.694389,6.966314,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.6944,6.9663,0.0 -41.7553,7.2901,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_23">
+        <name>7.2901, -41.7553</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.755287,7.290135,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:47</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.7553,7.2901,0.0 -41.8162,7.6139,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_24">
+        <name>7.6139, -41.8162</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.816244,7.61395,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.8162,7.6139,0.0 -41.8773,7.9378,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_25">
+        <name>7.9378, -41.8773</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.877261,7.93776,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:44:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.8773,7.9378,0.0 -41.9383,8.2616,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_26">
+        <name>8.2616, -41.9383</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.938341,8.261565,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.9383,8.2616,0.0 -41.9995,8.5854,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_27">
+        <name>8.5854, -41.9995</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-41.999488,8.585363,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-41.9995,8.5854,0.0 -42.0607,8.9092,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_28">
+        <name>8.9092, -42.0607</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.060703,8.909155,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:12</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.0607,8.9092,0.0 -42.1220,9.2329,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_29">
+        <name>9.2329, -42.1220</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.121989,9.232939,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.1220,9.2329,0.0 -42.1833,9.5567,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_30">
+        <name>9.5567, -42.1833</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.18335,9.556716,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:22</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.1833,9.5567,0.0 -42.2448,9.8805,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_31">
+        <name>9.8805, -42.2448</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.244788,9.880486,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:27</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.2448,9.8805,0.0 -42.3063,10.2042,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_32">
+        <name>10.2042, -42.3063</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.306306,10.204247,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.3063,10.2042,0.0 -42.3679,10.5280,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_33">
+        <name>10.5280, -42.3679</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.367903,10.527999,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:37</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.3679,10.5280,0.0 -42.4296,10.8517,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_34">
+        <name>10.8517, -42.4296</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.429586,10.851742,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.4296,10.8517,0.0 -42.4914,11.1755,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_35">
+        <name>11.1755, -42.4914</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.491357,11.175476,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:47</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.4914,11.1755,0.0 -42.5532,11.4992,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_36">
+        <name>11.4992, -42.5532</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.55322,11.499199,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.5532,11.4992,0.0 -42.6152,11.8229,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_37">
+        <name>11.8229, -42.6152</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.615176,11.822912,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:45:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.6152,11.8229,0.0 -42.6772,12.1466,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_38">
+        <name>12.1466, -42.6772</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.67723,12.146614,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.6772,12.1466,0.0 -42.7394,12.4703,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_39">
+        <name>12.4703, -42.7394</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.739383,12.470305,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.7394,12.4703,0.0 -42.8016,12.7940,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_40">
+        <name>12.7940, -42.8016</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.801639,12.793984,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:12</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.8016,12.7940,0.0 -42.8640,13.1176,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_41">
+        <name>13.1176, -42.8640</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.864002,13.11765,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.8640,13.1176,0.0 -42.9265,13.4413,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_42">
+        <name>13.4413, -42.9265</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.926473,13.441304,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:22</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.9265,13.4413,0.0 -42.9891,13.7649,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_43">
+        <name>13.7649, -42.9891</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-42.989057,13.764945,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:27</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-42.9891,13.7649,0.0 -43.0518,14.0886,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_44">
+        <name>14.0886, -43.0518</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.051755,14.088573,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.0518,14.0886,0.0 -43.1146,14.4122,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_45">
+        <name>14.4122, -43.1146</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.11457,14.412186,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:37</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.1146,14.4122,0.0 -43.1775,14.7358,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_46">
+        <name>14.7358, -43.1775</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.177504,14.735785,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.1775,14.7358,0.0 -43.2406,15.0594,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_47">
+        <name>15.0594, -43.2406</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.240563,15.059369,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:47</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.2406,15.0594,0.0 -43.3038,15.3829,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_48">
+        <name>15.3829, -43.3038</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.30375,15.382938,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.3038,15.3829,0.0 -43.3671,15.7065,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_49">
+        <name>15.7065, -43.3671</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.367068,15.706492,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:46:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.3671,15.7065,0.0 -43.4305,16.0300,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_50">
+        <name>16.0300, -43.4305</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.430521,16.030029,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.4305,16.0300,0.0 -43.4941,16.3535,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_51">
+        <name>16.3535, -43.4941</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.494111,16.353549,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.4941,16.3535,0.0 -43.5578,16.6771,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_52">
+        <name>16.6771, -43.5578</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.557842,16.677053,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:12</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.5578,16.6771,0.0 -43.6217,17.0005,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_53">
+        <name>17.0005, -43.6217</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.621718,17.000538,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.6217,17.0005,0.0 -43.6857,17.3240,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_54">
+        <name>17.3240, -43.6857</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.685743,17.324006,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:22</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.6857,17.3240,0.0 -43.7499,17.6475,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_55">
+        <name>17.6475, -43.7499</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.749918,17.647456,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:27</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.7499,17.6475,0.0 -43.8142,17.9709,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_56">
+        <name>17.9709, -43.8142</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.814249,17.970887,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.8142,17.9709,0.0 -43.8787,18.2943,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_57">
+        <name>18.2943, -43.8787</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.878739,18.294298,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:37</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.8787,18.2943,0.0 -43.9434,18.6177,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_58">
+        <name>18.6177, -43.9434</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-43.943386,18.61769,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-43.9434,18.6177,0.0 -44.0082,18.9411,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_59">
+        <name>18.9411, -44.0082</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-44.008198,18.941062,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:47</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-44.0082,18.9411,0.0 -44.0732,19.2644,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_60">
+        <name>19.2644, -44.0732</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-44.07318,19.264413,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-44.0732,19.2644,0.0 -44.1383,19.5877,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_61">
+        <name>19.5877, -44.1383</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-44.138336,19.587743,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:47:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-44.1383,19.5877,0.0 -44.2037,19.9111,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_62">
+        <name>19.9111, -44.2037</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-44.203669,19.911051,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:48:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-44.2037,19.9111,0.0 -44.2692,20.2343,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_63">
+        <name>20.2343, -44.2692</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-44.269184,20.234337,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:48:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-44.2692,20.2343,0.0 -44.3349,20.5576,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_64">
+        <name>20.5576, -44.3349</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-44.334883,20.557601,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:48:12</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-44.3349,20.5576,0.0 -44.4008,20.8808,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_65">
+        <name>20.8808, -44.4008</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-44.400772,20.880842,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:48:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-44.4008,20.8808,0.0 -44.4669,21.2041,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_66">
+        <name>21.2041, -44.4669</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-44.466854,21.20406,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:48:22</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-44.4669,21.2041,0.0 -44.5331,21.5273,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_67">
+        <name>-44.5331, 21.5273</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-44.5331,21.5273,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>04:48:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-44.5331,21.5273,0.0 -44.5996,21.8504,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_68">
+        <name>-44.5996, 21.8504</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-44.5996,21.8504,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_69">
+        <name>04:48:32</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-44.5996,21.8504,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>EC__DSC_2024-09-10T14:43:25Z_2024-09-10T14:44:44Z_1628</name>
+      <Placemark id="halo_pin_0">
+        <name>14:43:25</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-10.0121,4.1689,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_1">
+        <name>4.1689, -10.0121</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.012104,4.168911,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:43:25</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.0121,4.1689,0.0 -10.0726,3.8451,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_2">
+        <name>3.8451, -10.0726</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.072579,3.845066,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:43:30</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.0726,3.8451,0.0 -10.1330,3.5212,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_3">
+        <name>3.5212, -10.1330</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.133024,3.52122,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:43:35</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.1330,3.5212,0.0 -10.1934,3.1974,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_4">
+        <name>3.1974, -10.1934</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.193442,3.197375,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:43:40</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.1934,3.1974,0.0 -10.2538,2.8735,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_5">
+        <name>2.8735, -10.2538</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.253834,2.873529,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:43:45</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.2538,2.8735,0.0 -10.3142,2.5497,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_6">
+        <name>2.5497, -10.3142</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.314203,2.549685,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:43:50</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.3142,2.5497,0.0 -10.3746,2.2258,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_7">
+        <name>2.2258, -10.3746</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.374553,2.225843,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:43:55</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.3746,2.2258,0.0 -10.4349,1.9020,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_8">
+        <name>1.9020, -10.4349</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.434884,1.902002,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:44:00</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.4349,1.9020,0.0 -10.4952,1.5782,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_9">
+        <name>1.5782, -10.4952</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.495201,1.578164,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:44:05</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.4952,1.5782,0.0 -10.5555,1.2543,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_10">
+        <name>1.2543, -10.5555</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.555505,1.254328,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:44:10</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.5555,1.2543,0.0 -10.6158,0.9305,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_11">
+        <name>0.9305, -10.6158</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.615798,0.930495,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:44:15</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.6158,0.9305,0.0 -10.6761,0.6067,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_12">
+        <name>0.6067, -10.6761</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.676084,0.606666,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:44:20</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.6761,0.6067,0.0 -10.7364,0.2828,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_13">
+        <name>0.2828, -10.7364</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.736364,0.28284,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:44:25</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.7364,0.2828,0.0 -10.7966,-0.0410,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_14">
+        <name>-0.0410, -10.7966</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.796642,-0.040981,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:44:30</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.7966,-0.0410,0.0 -10.8569,-0.3648,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_15">
+        <name>-0.3648, -10.8569</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.85692,-0.364797,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:44:35</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.8569,-0.3648,0.0 -10.9172,-0.6886,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_16">
+        <name>-10.9172, -0.6886</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.9172,-0.6886,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14:44:44</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-10.9172,-0.6886,0.0 -10.9752,-1.0000,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_17">
+        <name>-10.9752, -1.0000</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.9752,-1.0000,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_18">
+        <name>14:44:44</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-10.9752,-1.0000,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>EC__DSC_2024-09-10T16:11:27Z_2024-09-10T16:17:17Z_1629</name>
+      <Placemark id="halo_pin_0">
+        <name>16:11:27</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-29.7460,21.7415,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_1">
+        <name>21.7415, -29.7460</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-29.745967,21.741477,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:11:27</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-29.7460,21.7415,0.0 -29.8124,21.4183,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_2">
+        <name>21.4183, -29.8124</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-29.812381,21.418299,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:11:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-29.8124,21.4183,0.0 -29.8786,21.0951,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_3">
+        <name>21.0951, -29.8786</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-29.878594,21.095097,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:11:37</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-29.8786,21.0951,0.0 -29.9446,20.7719,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_4">
+        <name>20.7719, -29.9446</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-29.944611,20.771872,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:11:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-29.9446,20.7719,0.0 -30.0104,20.4486,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_5">
+        <name>20.4486, -30.0104</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.010437,20.448623,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:11:47</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.0104,20.4486,0.0 -30.0761,20.1254,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_6">
+        <name>20.1254, -30.0761</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.076074,20.125351,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:11:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.0761,20.1254,0.0 -30.1415,19.8021,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_7">
+        <name>19.8021, -30.1415</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.141528,19.802058,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:11:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.1415,19.8021,0.0 -30.2068,19.4787,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_8">
+        <name>19.4787, -30.2068</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.206802,19.478742,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.2068,19.4787,0.0 -30.2719,19.1554,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_9">
+        <name>19.1554, -30.2719</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.271899,19.155405,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.2719,19.1554,0.0 -30.3368,18.8320,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_10">
+        <name>18.8320, -30.3368</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.336825,18.832047,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:12</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.3368,18.8320,0.0 -30.4016,18.5087,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_11">
+        <name>18.5087, -30.4016</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.401582,18.508669,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.4016,18.5087,0.0 -30.4662,18.1853,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_12">
+        <name>18.1853, -30.4662</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.466174,18.18527,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:22</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.4662,18.1853,0.0 -30.5306,17.8619,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_13">
+        <name>17.8619, -30.5306</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.530605,17.861852,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:27</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.5306,17.8619,0.0 -30.5949,17.5384,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_14">
+        <name>17.5384, -30.5949</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.594881,17.538415,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.5949,17.5384,0.0 -30.6590,17.2150,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_15">
+        <name>17.2150, -30.6590</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.659007,17.214959,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:37</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.6590,17.2150,0.0 -30.7230,16.8915,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_16">
+        <name>16.8915, -30.7230</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.722981,16.891485,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.7230,16.8915,0.0 -30.7868,16.5680,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_17">
+        <name>16.5680, -30.7868</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.786809,16.567994,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:47</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.7868,16.5680,0.0 -30.8505,16.2445,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_18">
+        <name>16.2445, -30.8505</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.850493,16.244485,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.8505,16.2445,0.0 -30.9140,15.9210,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_19">
+        <name>15.9210, -30.9140</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.914037,15.920959,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:12:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.9140,15.9210,0.0 -30.9774,15.5974,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_20">
+        <name>15.5974, -30.9774</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-30.977444,15.597416,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-30.9774,15.5974,0.0 -31.0407,15.2739,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_21">
+        <name>15.2739, -31.0407</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.040718,15.273858,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.0407,15.2739,0.0 -31.1039,14.9503,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_22">
+        <name>14.9503, -31.1039</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.103862,14.950284,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:12</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.1039,14.9503,0.0 -31.1669,14.6267,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_23">
+        <name>14.6267, -31.1669</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.16688,14.626694,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.1669,14.6267,0.0 -31.2298,14.3031,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_24">
+        <name>14.3031, -31.2298</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.229773,14.30309,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:22</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.2298,14.3031,0.0 -31.2925,13.9795,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_25">
+        <name>13.9795, -31.2925</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.292547,13.979472,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:27</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.2925,13.9795,0.0 -31.3552,13.6558,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_26">
+        <name>13.6558, -31.3552</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.355203,13.65584,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.3552,13.6558,0.0 -31.4177,13.3322,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_27">
+        <name>13.3322, -31.4177</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.417748,13.332195,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:37</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.4177,13.3322,0.0 -31.4802,13.0085,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_28">
+        <name>13.0085, -31.4802</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.480183,13.008537,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.4802,13.0085,0.0 -31.5425,12.6849,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_29">
+        <name>12.6849, -31.5425</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.54251,12.684866,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:47</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.5425,12.6849,0.0 -31.6047,12.3612,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_30">
+        <name>12.3612, -31.6047</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.604732,12.361183,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.6047,12.3612,0.0 -31.6669,12.0375,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_31">
+        <name>12.0375, -31.6669</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.666852,12.037488,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:13:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.6669,12.0375,0.0 -31.7289,11.7138,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_32">
+        <name>11.7138, -31.7289</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.728873,11.713783,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.7289,11.7138,0.0 -31.7908,11.3901,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_33">
+        <name>11.3901, -31.7908</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.790797,11.390066,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.7908,11.3901,0.0 -31.8526,11.0663,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_34">
+        <name>11.0663, -31.8526</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.852629,11.066339,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:12</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.8526,11.0663,0.0 -31.9144,10.7426,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_35">
+        <name>10.7426, -31.9144</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.914371,10.742603,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.9144,10.7426,0.0 -31.9760,10.4189,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_36">
+        <name>10.4189, -31.9760</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-31.976025,10.418856,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:22</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-31.9760,10.4189,0.0 -32.0376,10.0951,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_37">
+        <name>10.0951, -32.0376</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.037595,10.095101,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:27</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.0376,10.0951,0.0 -32.0991,9.7713,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_38">
+        <name>9.7713, -32.0991</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.099083,9.771337,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.0991,9.7713,0.0 -32.1605,9.4476,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_39">
+        <name>9.4476, -32.1605</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.160493,9.447565,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:37</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.1605,9.4476,0.0 -32.2218,9.1238,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_40">
+        <name>9.1238, -32.2218</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.221829,9.123786,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.2218,9.1238,0.0 -32.2831,8.8000,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_41">
+        <name>8.8000, -32.2831</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.283092,8.799999,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:47</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.2831,8.8000,0.0 -32.3443,8.4762,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_42">
+        <name>8.4762, -32.3443</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.344284,8.476205,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.3443,8.4762,0.0 -32.4054,8.1524,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_43">
+        <name>8.1524, -32.4054</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.405408,8.152405,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:14:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.4054,8.1524,0.0 -32.4665,7.8286,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_44">
+        <name>7.8286, -32.4665</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.466467,7.828598,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.4665,7.8286,0.0 -32.5275,7.5048,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_45">
+        <name>7.5048, -32.5275</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.527464,7.504786,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.5275,7.5048,0.0 -32.5884,7.1810,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_46">
+        <name>7.1810, -32.5884</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.588401,7.180969,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:12</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.5884,7.1810,0.0 -32.6493,6.8571,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_47">
+        <name>6.8571, -32.6493</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.64928,6.857147,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.6493,6.8571,0.0 -32.7101,6.5333,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_48">
+        <name>6.5333, -32.7101</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.710106,6.533321,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:22</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.7101,6.5333,0.0 -32.7709,6.2095,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_49">
+        <name>6.2095, -32.7709</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.77088,6.209491,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:27</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.7709,6.2095,0.0 -32.8316,5.8857,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_50">
+        <name>5.8857, -32.8316</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.831604,5.885657,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.8316,5.8857,0.0 -32.8923,5.5618,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_51">
+        <name>5.5618, -32.8923</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.892282,5.561821,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:37</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.8923,5.5618,0.0 -32.9529,5.2380,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_52">
+        <name>5.2380, -32.9529</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-32.952917,5.237982,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-32.9529,5.2380,0.0 -33.0135,4.9141,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_53">
+        <name>4.9141, -33.0135</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.013512,4.914141,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:47</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.0135,4.9141,0.0 -33.0741,4.5903,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_54">
+        <name>4.5903, -33.0741</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.074067,4.590298,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.0741,4.5903,0.0 -33.1346,4.2665,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_55">
+        <name>4.2665, -33.1346</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.134586,4.266454,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:15:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.1346,4.2665,0.0 -33.1951,3.9426,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_56">
+        <name>3.9426, -33.1951</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.195071,3.942609,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.1951,3.9426,0.0 -33.2555,3.6188,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_57">
+        <name>3.6188, -33.2555</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.255525,3.618763,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.2555,3.6188,0.0 -33.3160,3.2949,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_58">
+        <name>3.2949, -33.3160</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.315951,3.294917,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:12</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.3160,3.2949,0.0 -33.3764,2.9711,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_59">
+        <name>2.9711, -33.3764</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.37635,2.971072,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.3764,2.9711,0.0 -33.4367,2.6472,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_60">
+        <name>2.6472, -33.4367</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.436726,2.647228,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:22</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.4367,2.6472,0.0 -33.4971,2.3234,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_61">
+        <name>2.3234, -33.4971</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.497081,2.323385,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:27</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.4971,2.3234,0.0 -33.5574,1.9995,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_62">
+        <name>1.9995, -33.5574</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.557418,1.999543,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:32</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.5574,1.9995,0.0 -33.6177,1.6757,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_63">
+        <name>1.6757, -33.6177</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.617738,1.675704,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:37</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.6177,1.6757,0.0 -33.6780,1.3519,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_64">
+        <name>1.3519, -33.6780</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.678045,1.351867,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:42</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.6780,1.3519,0.0 -33.7383,1.0280,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_65">
+        <name>1.0280, -33.7383</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.738342,1.028033,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:47</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.7383,1.0280,0.0 -33.7986,0.7042,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_66">
+        <name>0.7042, -33.7986</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.79863,0.704203,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:52</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.7986,0.7042,0.0 -33.8589,0.3804,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_67">
+        <name>0.3804, -33.8589</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.858912,0.380376,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:16:57</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.8589,0.3804,0.0 -33.9192,0.0566,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_68">
+        <name>0.0566, -33.9192</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.91919,0.056554,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:17:02</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.9192,0.0566,0.0 -33.9795,-0.2673,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_69">
+        <name>-0.2673, -33.9795</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-33.979467,-0.267264,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:17:07</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-33.9795,-0.2673,0.0 -34.0397,-0.5911,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_70">
+        <name>-34.0397, -0.5911</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-34.0397,-0.5911,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16:17:17</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-34.0397,-0.5911,0.0 -34.1000,-0.9149,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_71">
+        <name>-34.1000, -0.9149</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-34.1000,-0.9149,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_72">
+        <name>16:17:17</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-34.1000,-0.9149,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>EC__DSC_2024-09-10T17:43:58Z_2024-09-10T17:49:48Z_1630</name>
+      <Placemark id="halo_pin_0">
+        <name>17:43:58</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-52.8601,21.8707,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_1">
+        <name>21.8707, -52.8601</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-52.86006,21.870741,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:43:58</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-52.8601,21.8707,0.0 -52.9265,21.5476,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_2">
+        <name>21.5476, -52.9265</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-52.92655,21.547573,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:03</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-52.9265,21.5476,0.0 -52.9928,21.2244,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_3">
+        <name>21.2244, -52.9928</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-52.992839,21.224381,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:08</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-52.9928,21.2244,0.0 -53.0589,20.9012,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_4">
+        <name>20.9012, -53.0589</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.058931,20.901165,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:13</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.0589,20.9012,0.0 -53.1248,20.5779,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_5">
+        <name>20.5779, -53.1248</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.124829,20.577925,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:18</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.1248,20.5779,0.0 -53.1905,20.2547,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_6">
+        <name>20.2547, -53.1905</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.190537,20.254663,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:23</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.1905,20.2547,0.0 -53.2561,19.9314,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_7">
+        <name>19.9314, -53.2561</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.256064,19.931378,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:28</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.2561,19.9314,0.0 -53.3214,19.6081,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_8">
+        <name>19.6081, -53.3214</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.321412,19.608071,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:33</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.3214,19.6081,0.0 -53.3866,19.2847,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_9">
+        <name>19.2847, -53.3866</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.386582,19.284742,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:38</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.3866,19.2847,0.0 -53.4516,18.9614,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_10">
+        <name>18.9614, -53.4516</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.451578,18.961393,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:43</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.4516,18.9614,0.0 -53.5164,18.6380,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_11">
+        <name>18.6380, -53.5164</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.516404,18.638023,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:48</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.5164,18.6380,0.0 -53.5811,18.3146,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_12">
+        <name>18.3146, -53.5811</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.581064,18.314632,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:53</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.5811,18.3146,0.0 -53.6456,17.9912,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_13">
+        <name>17.9912, -53.6456</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.645561,17.991222,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:44:58</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.6456,17.9912,0.0 -53.7099,17.6678,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_14">
+        <name>17.6678, -53.7099</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.7099,17.667792,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:03</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.7099,17.6678,0.0 -53.7741,17.3443,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_15">
+        <name>17.3443, -53.7741</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.774083,17.344344,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:08</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.7741,17.3443,0.0 -53.8381,17.0209,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_16">
+        <name>17.0209, -53.8381</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.838114,17.020877,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:13</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.8381,17.0209,0.0 -53.9020,16.6974,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_17">
+        <name>16.6974, -53.9020</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.901997,16.697392,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:18</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.9020,16.6974,0.0 -53.9657,16.3739,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_18">
+        <name>16.3739, -53.9657</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-53.965735,16.37389,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:23</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-53.9657,16.3739,0.0 -54.0293,16.0504,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_19">
+        <name>16.0504, -54.0293</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.029332,16.050371,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:28</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.0293,16.0504,0.0 -54.0928,15.7268,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_20">
+        <name>15.7268, -54.0928</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.092796,15.726835,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:33</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.0928,15.7268,0.0 -54.1561,15.4033,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_21">
+        <name>15.4033, -54.1561</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.156125,15.403283,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:38</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.1561,15.4033,0.0 -54.2193,15.0797,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_22">
+        <name>15.0797, -54.2193</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.219322,15.079715,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:43</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.2193,15.0797,0.0 -54.2824,14.7561,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_23">
+        <name>14.7561, -54.2824</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.282392,14.756132,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:48</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.2824,14.7561,0.0 -54.3453,14.4325,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_24">
+        <name>14.4325, -54.3453</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.345336,14.432534,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:53</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.3453,14.4325,0.0 -54.4082,14.1089,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_25">
+        <name>14.1089, -54.4082</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.408159,14.108921,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:45:58</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.4082,14.1089,0.0 -54.4709,13.7853,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_26">
+        <name>13.7853, -54.4709</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.470863,13.785295,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:03</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.4709,13.7853,0.0 -54.5335,13.4617,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_27">
+        <name>13.4617, -54.5335</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.533452,13.461655,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:08</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.5335,13.4617,0.0 -54.5959,13.1380,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_28">
+        <name>13.1380, -54.5959</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.595928,13.138001,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:13</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.5959,13.1380,0.0 -54.6583,12.8143,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_29">
+        <name>12.8143, -54.6583</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.658296,12.814336,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:18</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.6583,12.8143,0.0 -54.7206,12.4907,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_30">
+        <name>12.4907, -54.7206</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.720557,12.490657,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:23</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.7206,12.4907,0.0 -54.7827,12.1670,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_31">
+        <name>12.1670, -54.7827</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.782715,12.166967,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:28</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.7827,12.1670,0.0 -54.8448,11.8433,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_32">
+        <name>11.8433, -54.8448</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.844775,11.843266,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:33</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.8448,11.8433,0.0 -54.9067,11.5196,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_33">
+        <name>11.5196, -54.9067</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.906739,11.519554,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:38</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.9067,11.5196,0.0 -54.9686,11.1958,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_34">
+        <name>11.1958, -54.9686</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-54.968609,11.195831,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:43</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-54.9686,11.1958,0.0 -55.0304,10.8721,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_35">
+        <name>10.8721, -55.0304</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.030388,10.872099,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:48</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.0304,10.8721,0.0 -55.0921,10.5484,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_36">
+        <name>10.5484, -55.0921</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.092078,10.548356,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:53</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.0921,10.5484,0.0 -55.1537,10.2246,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_37">
+        <name>10.2246, -55.1537</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.153682,10.224604,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:46:58</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.1537,10.2246,0.0 -55.2152,9.9008,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_38">
+        <name>9.9008, -55.2152</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.215204,9.900844,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:03</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.2152,9.9008,0.0 -55.2766,9.5771,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_39">
+        <name>9.5771, -55.2766</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.276645,9.577075,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:08</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.2766,9.5771,0.0 -55.3380,9.2533,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_40">
+        <name>9.2533, -55.3380</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.33801,9.253299,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:13</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.3380,9.2533,0.0 -55.3993,8.9295,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_41">
+        <name>8.9295, -55.3993</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.3993,8.929514,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:18</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.3993,8.9295,0.0 -55.4605,8.6057,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_42">
+        <name>8.6057, -55.4605</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.460518,8.605723,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:23</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.4605,8.6057,0.0 -55.5217,8.2819,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_43">
+        <name>8.2819, -55.5217</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.521668,8.281925,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:28</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.5217,8.2819,0.0 -55.5828,7.9581,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_44">
+        <name>7.9581, -55.5828</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.582751,7.958121,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:33</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.5828,7.9581,0.0 -55.6438,7.6343,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_45">
+        <name>7.6343, -55.6438</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.643773,7.634311,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:38</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.6438,7.6343,0.0 -55.7047,7.3105,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_46">
+        <name>7.3105, -55.7047</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.704735,7.310496,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:43</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.7047,7.3105,0.0 -55.7656,6.9867,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_47">
+        <name>6.9867, -55.7656</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.765638,6.986676,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:48</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.7656,6.9867,0.0 -55.8265,6.6629,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_48">
+        <name>6.6629, -55.8265</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.826486,6.662852,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:53</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.8265,6.6629,0.0 -55.8873,6.3390,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_49">
+        <name>6.3390, -55.8873</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.88728,6.339023,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:47:58</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.8873,6.3390,0.0 -55.9480,6.0152,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_50">
+        <name>6.0152, -55.9480</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-55.948025,6.015191,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:03</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-55.9480,6.0152,0.0 -56.0087,5.6914,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_51">
+        <name>5.6914, -56.0087</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.008722,5.691356,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:08</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.0087,5.6914,0.0 -56.0694,5.3675,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_52">
+        <name>5.3675, -56.0694</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.069374,5.367518,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:13</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.0694,5.3675,0.0 -56.1300,5.0437,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_53">
+        <name>5.0437, -56.1300</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.129983,5.043677,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:18</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.1300,5.0437,0.0 -56.1906,4.7198,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_54">
+        <name>4.7198, -56.1906</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.190553,4.719835,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:23</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.1906,4.7198,0.0 -56.2511,4.3960,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_55">
+        <name>4.3960, -56.2511</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.251085,4.395991,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:28</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.2511,4.3960,0.0 -56.3116,4.0721,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_56">
+        <name>4.0721, -56.3116</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.311583,4.072146,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:33</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.3116,4.0721,0.0 -56.3720,3.7483,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_57">
+        <name>3.7483, -56.3720</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.372049,3.748301,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:38</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.3720,3.7483,0.0 -56.4325,3.4245,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_58">
+        <name>3.4245, -56.4325</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.432486,3.424455,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:43</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.4325,3.4245,0.0 -56.4929,3.1006,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_59">
+        <name>3.1006, -56.4929</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.492896,3.10061,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:48</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.4929,3.1006,0.0 -56.5533,2.7768,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_60">
+        <name>2.7768, -56.5533</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.553282,2.776765,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:53</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.5533,2.7768,0.0 -56.6136,2.4529,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_61">
+        <name>2.4529, -56.6136</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.613645,2.452922,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:48:58</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.6136,2.4529,0.0 -56.6740,2.1291,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_62">
+        <name>2.1291, -56.6740</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.673989,2.12908,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:49:03</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.6740,2.1291,0.0 -56.7343,1.8052,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_63">
+        <name>1.8052, -56.7343</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.734316,1.805239,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:49:08</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.7343,1.8052,0.0 -56.7946,1.4814,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_64">
+        <name>1.4814, -56.7946</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.794628,1.481402,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:49:13</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.7946,1.4814,0.0 -56.8549,1.1576,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_65">
+        <name>1.1576, -56.8549</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.854928,1.157566,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:49:18</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.8549,1.1576,0.0 -56.9152,0.8337,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_66">
+        <name>0.8337, -56.9152</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.915219,0.833735,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:49:23</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.9152,0.8337,0.0 -56.9755,0.5099,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_67">
+        <name>0.5099, -56.9755</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-56.975503,0.509906,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:49:28</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-56.9755,0.5099,0.0 -57.0358,0.1861,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_68">
+        <name>0.1861, -57.0358</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-57.035783,0.186082,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:49:33</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-57.0358,0.1861,0.0 -57.0961,-0.1377,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_69">
+        <name>-0.1377, -57.0961</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-57.09606,-0.137738,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:49:38</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-57.0961,-0.1377,0.0 -57.1563,-0.4616,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_70">
+        <name>-57.1563, -0.4616</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-57.1563,-0.4616,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17:49:48</name>
+        <styleUrl>#stylemap_id1</styleUrl>
+        <LineString>
+          <coordinates>-57.1563,-0.4616,0.0 -57.2166,-0.7854,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="halo_pin_71">
+        <name>-57.2166, -0.7854</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-57.2166,-0.7854,0.0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="halo_pin_72">
+        <name>17:49:48</name>
+        <styleUrl>#pin_style</styleUrl>
+        <Point>
+          <coordinates>-57.2166,-0.7854,0.0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Folder>
+</kml>
